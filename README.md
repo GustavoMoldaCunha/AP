@@ -13,3 +13,6 @@ Q3:
 função que retorna um array associativo que usa o nome do grupo como chave e o valor é um array associativo dos times ordenados conforme a pontuação 
 obtida. Recebe como argumentos a estrutura da Questão Q1 e os índices das colunas referentes aos nomes dos times. 
 Utiliza a função computaMelhoresColocados para verificar se os times possuem o mesmo número de partidas (Questão Q2)
+
+Q4: Consulta em um Banco de Dados que retorna o nome do time e o número de pontos correspondente do melhor time na fase de classificação do campeonato 
+(considerando todos os grupos).
